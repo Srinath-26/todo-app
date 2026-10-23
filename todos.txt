@@ -1,8 +1,7 @@
 Clean the bag
 Fix the drawer
 add a new member
-Make soup
-Buy PlantsGood Orderdefault arg made
+Prepare resumeBuy PlantsGood Orderdefault arg made
 Master Python!
-Anything
 Buy grocery
+Go to school
